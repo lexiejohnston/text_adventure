@@ -7,7 +7,7 @@ print("""WELCOME TO THE ADVENTURE GAME!
     Type your choice: Stay or Evaluate?
 """)
 
-def scene1(): # the name for the first scene
+def scene1(): # the name for the first scene   fff
     import time #used to bring the date into the scene
     print("""WELCOME TO THE ADVENTURE GAME!
     Let's start the action! ☆-🎬-☆
